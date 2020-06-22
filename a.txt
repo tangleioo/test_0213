@@ -9,3 +9,4 @@ new color 1
 new master 1
 new color 2
 new line edit by older
+new person by person
