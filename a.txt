@@ -7,3 +7,4 @@ second line
 7th line
 new color 1
 new master 1
+new color 2
